@@ -34,8 +34,7 @@ h2{
     font-size: 3em;
     color: #282A35;
     margin: 15px 0;
-    text-align: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 .btn-group{
     width: 100%;
